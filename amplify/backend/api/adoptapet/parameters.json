@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "adoptapet",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-12-02T20:12:54.858Z"
+}
